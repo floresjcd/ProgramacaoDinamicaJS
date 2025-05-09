@@ -19,7 +19,7 @@ Use DP quando:
 | Distância de Edição (Edit Distance)| Menor número de operações para transformar strings |
 
 ---
-✅ O **código completo dos problemas clássicos resolvidos com Programação Dinâmica em JavaScript**
+✅ ** Códigos completos dos problemas clássicos resolvidos com Programação Dinâmica em JavaScript**
 
 ## 👤 GitHub
 
